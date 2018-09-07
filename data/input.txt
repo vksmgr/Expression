@@ -1,0 +1,53 @@
+﻿Test Data
+1.Date
+Possible dates for the first assessment exams are
+1-08-2018, 03/8/2018, 07.08.18 , 04-14-1994 , 1999-12-10
+Possible dates for the second assessment exams are
+ October 22 , 2018 ,  October 24, 2018 ,  October 29,  2018 , 1 Nov,2018, 03 Nov ,2018
+32 Nov,2018
+Possible dates for semester exams are
+2018/11/03, 2018.11.07, 2018-11-9 , 2018-13-04
+2.Time
+	Possible starting  times are
+	5.15AM  or 05:15 AM  or 5.15am or 5.15 am
+	5.15 PM or 5:15PM  or 5.15 PM or 5.15pm
+	13:4 or 13:04:22 or 13:24:22.04
+3.Mobile Number
+	Possible  mobile number formats are
+	7382293451
+91738293451 or 91 7382293451
+	+917382293451 or +91 7382293451 or +  91 7382293451
+	(+91)738229345 or ( +91 )7382293451 or (+91) 7382293451
+4.Landline Number
+               Landline number formats are
+	22469
+	04322469 or 043 22469
+	(043)22469 or ( 043 )22469 or (043) 22469
+5.Currency Values
+	$500.12 , 500.12dollars, 500.1 dollars
+               $ 1.24 , 1.25dollars,  $1,000.40 , $10,000.14
+6. Email ids
+             abcd.yz [at] iiith [dot] ac[dot] in  can be written like  abcd.yz [AT] iiith [DOT] ac [DOT] in  or like  abcd.yz(AT) iiith (DOT) ac (DOT) in , abcd.yz(at ) iiith ( dot) ac. In, abcd[at]nitt.edu  or  abcd  AT nitt DOT edu  etc
+7.URLs
+	https://www.google.co.in
+              www.cricbuzz.in
+              http://www.abcd.me
+        This course is very good    E:\nlp\deep learning\ Andrew ng\ course1\introduction.mp4
+              C:\desktop\nlptutorial1.1.pdf
+8.Names
+	Rama Viswanath called by her friends Rama V.  or  V.Rama
+              Subash Chandra Bose called as  S. C. Bose  or sometimes  Subash C. Bose,     Mr. Subash Chandra Bose,    Mr. S. C. Bose
+
+Sri  A. Sumanth,  Dr. S. Priya  , Dr.B.Kavitha, Prof. John Xavier are members of the committee.
+
+
+9. email addresse magarnitt@gmail.com  magar.nitt@gmail.com
+ magar_nitt@gmail.com
+
+
+
+
+
+
+        
+
